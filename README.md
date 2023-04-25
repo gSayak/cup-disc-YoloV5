@@ -22,6 +22,8 @@ The directory structure followed is:
 
 The repo was annotated manually using <a href="https://roboflow.com/">RoboFlow</a>
 
+Link for annotated dataset:  <a href="https://drive.google.com/drive/folders/1_ilde9qcASPgxcNs6jEDFtRrYH3vcB4M?usp=sharing">Here!</a>
+
 Annotation done by <a href="https://github.com/D0MINATRIX">Rajdeep Chatterjee</a>
   
 # Steps to run segmentation on any Fundus image
