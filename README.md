@@ -33,7 +33,7 @@ For running this repo on Google Colab you will need to
 2. Upload the <a href="ttps://github.com/gSayak/cup-disc-Segmentation/blob/main/test_yolov5_segmentation.ipynb">test_yolov5_segmentation.ipynb</a> in a google drive
 3. Open the test_yolov5_segmentation.ipynb with Google Colab
 4. Once the file gets opened in Colab, upload the fundus image you want to mask in Google colab either by using the upload button or by simple drag and drop
-5. Copy the path of the fundus image that you uploaded and replace the `'path to/fundus.jpg` with the path you copied in the earlier step or you can provide the URL of any image from the internet
+5. Copy the path of the fundus image that you uploaded and replace the `'path to/fundus.jpg'` with the path you copied in the earlier step or you can provide the URL of any image from the internet
 ```bash
 !python segment/predict.py --img 320 --weights '/content/cup-disc-Segmentation/weights/weight.pt' --source '/path to/fundus.jpg' --name custom-dataset
 ```
