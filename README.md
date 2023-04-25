@@ -56,4 +56,4 @@ The results for training on custom dataset are as follows:
 
 The confusion matrix for the training model on custom dataset :
 
-<img src="https://github.com/gSayak/cup-disc-Segmentation/blob/main/assets/confusion_matrix%20(1).png" height="70%" weight="60%"></img>
+<img src="https://github.com/gSayak/cup-disc-Segmentation/blob/main/assets/confusion_matrix%20(1).png" height="70%" weight="50%"></img>
