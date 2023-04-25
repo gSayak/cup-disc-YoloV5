@@ -43,4 +43,4 @@ display.Image(filename=f"/content/yolov5/runs/predict-seg/custom-dataset/fundus.
 ```
 9. The segmented image with masks on cup and disc will be shown to you
 
-<img src="https://github.com/gSayak/cup-disc-Segmentation/blob/main/assets/fundus%20(1).jpg"></img>
+<img src="https://github.com/gSayak/cup-disc-Segmentation/blob/main/assets/fundus%20(1).jpg" width="50%"></img>
