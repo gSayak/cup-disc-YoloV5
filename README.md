@@ -21,6 +21,8 @@ The directory structure followed is:
 <img src="https://github.com/gSayak/cup-disc-Segmentation/blob/main/assets/dataset.jpg"></img>
 
 The repo was annotated manually using <a href="https://roboflow.com/">RoboFlow</a>
+
+Annotation done by <a href="https://github.com/D0MINATRIX">Rajdeep Chatterjee</a>
   
 # Steps to run segmentation on any Fundus image
 
