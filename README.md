@@ -2,7 +2,7 @@
 
 This repo uses YoloV5 for detection of cup and disc from fundus image. 
 
-<img src= "https://github.com/gSayak/cup-disc-Segmentation/blob/main/assets/Blank%204%20Grids%20Collage.png"></img>
+<img src= "https://github.com/gSayak/cup-disc-Segmentation/blob/main/assets/Blank%204%20Grids%20Collage.png" width="70%"></img>
 
 # What is Cup and Disc
 
