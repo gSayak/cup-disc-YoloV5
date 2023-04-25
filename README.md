@@ -1,6 +1,6 @@
 # CUP and DISC segmentation using YOLO V5 instance Segmentation
 
-This repo uses YoloV5 for detection of cup and disc from fundus image. This model has been run on 99epochs. 
+This repo uses YoloV5 for detection of cup and disc from fundus image.
 
 <img src= "https://github.com/gSayak/cup-disc-Segmentation/blob/main/assets/Blank%204%20Grids%20Collage.png" width="85%"></img>
 
@@ -42,5 +42,6 @@ For running this repo on Google Colab you will need to
 display.Image(filename=f"/content/yolov5/runs/predict-seg/custom-dataset/fundus.jpg", width=600)
 ```
 9. The segmented image with masks on cup and disc will be shown to you
-
 <img src="https://github.com/gSayak/cup-disc-Segmentation/blob/main/assets/fundus%20(1).jpg" width="50%"></img>
+
+Due to the GPU limitations on Colab this model has been trained on 320p images and 99 epochs. The training time took 1hr 24mins. Training this model on a high end machine would provide much better results.
