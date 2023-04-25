@@ -1,6 +1,6 @@
 # CUP and DISC segmentation using YOLO V5 instance Segmentation
 
-This repo uses YoloV5 for detection of cup and disc from fundus image. 
+This repo uses YoloV5 for detection of cup and disc from fundus image. This model has been run on 99epochs. 
 
 <img src= "https://github.com/gSayak/cup-disc-Segmentation/blob/main/assets/Blank%204%20Grids%20Collage.png" width="85%"></img>
 
