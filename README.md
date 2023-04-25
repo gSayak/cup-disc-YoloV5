@@ -46,4 +46,14 @@ display.Image(filename=f"/content/yolov5/runs/predict-seg/custom-dataset/fundus.
 9. The segmented image with masks on cup and disc will be shown to you
 <img src="https://github.com/gSayak/cup-disc-Segmentation/blob/main/assets/fundus%20(1).jpg" width="50%"></img>
 
+# Results
+
 Due to the GPU limitations on Colab this model has been trained on 320p images and 99 epochs. The training time took 1hr 24mins. Training this model on a high end machine would provide much better results.
+
+The results for training on custom dataset are as follows:
+
+<img src="https://github.com/gSayak/cup-disc-Segmentation/blob/main/assets/results.png" style=""></img>
+
+The confusion matrix for the training model on custom dataset :
+
+<img src="https://github.com/gSayak/cup-disc-Segmentation/blob/main/assets/confusion_matrix%20(1).png" style=""></img>
