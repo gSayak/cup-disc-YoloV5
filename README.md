@@ -18,8 +18,26 @@ This repo has been trained on the RIM-ONE dataset. RIM-ONE DL is a unified retin
 
 The directory structure followed is:
 
-<img src="https://github.com/gSayak/cup-disc-Segmentation/blob/main/assets/dataset.jpg"></img>
-
+```
+dataset
+├── train
+│   ├── images
+│   │   ├── IMG_123.jpg
+│   └── labels
+│       ├── IMG_123.txt
+├── valid
+│   ├── images
+│   │   ├── IMG_456.jpg
+│   └── labels
+│       ├── IMG_456.txt
+├── test
+│   ├── images
+│   │   ├── IMG_789.jpg
+│   └── labels
+│       ├── IMG_789.txt
+├── data.yaml
+├── README.roboflow.txt
+```
 The repo was annotated manually using <a href="https://roboflow.com/">RoboFlow</a>
 
 Link for annotated dataset:  <a href="https://drive.google.com/drive/folders/1_ilde9qcASPgxcNs6jEDFtRrYH3vcB4M?usp=sharing">Here!</a>
